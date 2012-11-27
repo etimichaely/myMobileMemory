@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">My Mobile Memory</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="edit_task">Description of the task</string>
+    <string name="button_creat">Create</string>
+    <string name="button_done">Done</string>
+    <string name="button_addTask">Add Task</string>
+    <string name="title_activity_my__memory_app">My Mobile Memory</string>
+    <string name="title_activity_add_task">Creat New Task</string>
+
+</resources>
